@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OpenGLScene.dir/main.cpp.o CMakeFiles/OpenGLScene.dir/external/glad/src/glad.c.o -o OpenGLScene  external/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
